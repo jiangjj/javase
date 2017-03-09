@@ -17,7 +17,7 @@ public class FileTyper {
         typeFile(args[0]);
     }
 
-    public static void typeFile(String filename) throws IOException {
+    private static void typeFile(String filename) throws IOException {
         FileInputStream fin = new FileInputStream(filename);
         try {
             StreamCopier.copy(fin, System.out);

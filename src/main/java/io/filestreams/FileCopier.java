@@ -12,6 +12,7 @@ import java.io.IOException;
 public class FileCopier {
     public static void main(String[] args) {
         if (args.length != 2) {
+
             System.err.println("Usage: java FileCopier infile outfile");
         }
         try {
@@ -42,4 +43,6 @@ public class FileCopier {
             }
         }
     }
+
+
 }
