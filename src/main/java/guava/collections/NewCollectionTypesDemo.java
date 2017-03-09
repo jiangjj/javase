@@ -1,7 +1,6 @@
 package guava.collections;
 
 import com.google.common.collect.*;
-import sun.jvm.hotspot.utilities.BitMap;
 
 import java.util.Set;
 
