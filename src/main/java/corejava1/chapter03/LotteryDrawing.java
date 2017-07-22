@@ -1,4 +1,4 @@
-package corejava.chapter03;
+package corejava1.chapter03;
 
 import java.util.Arrays;
 import java.util.Scanner;

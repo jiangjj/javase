@@ -1,4 +1,4 @@
-package corejava.chapter03;
+package corejava1.chapter03;
 
 /**
  * Created by Administrator on 2017/3/9.

@@ -1,4 +1,4 @@
-package corejava.chapter03;
+package corejava1.chapter03;
 
 import java.math.BigInteger;
 import java.util.Scanner;
